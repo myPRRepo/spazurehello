@@ -8,6 +8,7 @@ public class SpAzureHelloController {
 
 	 @GetMapping("/helloazure")
 	 public String sayHello(){
-		 return "My name is Azure spring ";
+
+		 return "My name is Azure spring 2 ";
 	 }
 }
